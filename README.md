@@ -1,4 +1,4 @@
-#### The app is a simple Bot description application, 09/10/2023
+#### The app is a simple Bot description application, 06/11/2023
 #### **By Ian Kimani**
 ## Project Description
     Its a simple blog app
