@@ -1,7 +1,7 @@
 #### The app is a simple Bot description application, 06/11/2023
 #### **By Ian Kimani**
 ## Project Description
-    Its a simple blog app
+    Its a simple bot description app
 ## Setup/Installation Requirements
     - Download zip in the code section of github to your desired folder
     - Extract the files
